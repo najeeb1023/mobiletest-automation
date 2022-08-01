@@ -1,0 +1,35 @@
+{
+  "dependencies": {
+    "@wdio/allure-reporter": "^7.20.7",
+    "@wdio/cli": "^7.20.9",
+    "@wdio/sync": "^7.20.9",
+    "appium": "^1.22.3",
+    "appium-doctor": "^1.16.0",
+    "chai": "^4.3.6",
+    "chalk": "^5.0.1",
+    "mocha": "^10.0.0",
+    "wdio": "^6.0.1",
+    "wdio-cli": "^5.0.0-alpha.7",
+    "webdriverio": "^7.20.9"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.18.9",
+    "@babel/core": "^7.18.9",
+    "@babel/preset-env": "^7.18.9",
+    "@babel/register": "^7.18.9",
+    "@wdio/local-runner": "^7.20.9",
+    "@wdio/mocha-framework": "^7.20.7",
+    "@wdio/selenium-standalone-service": "^7.20.8",
+    "@wdio/spec-reporter": "^7.20.8"
+  },
+  "name": "timeless-app",
+  "version": "1.0.0",
+  "main": "wdio.conf.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

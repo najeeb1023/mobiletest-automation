@@ -4,7 +4,7 @@ This is a walkthrough for the mobile automation task (developing smoke test case
 
 Commands to be executed once in VS code’s terminal:
 
-  1) Nodejs should be installed in the system to run node commands (https://nodejs.org/en/download/)
+  	1) Nodejs should be installed in the system to run node commands (https://nodejs.org/en/download/)
 	2) npm install appium
 	3) npm install Appium-doctor
 	4) npm install webdriverio
